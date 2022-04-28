@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "83040793624",
+    "firebase_url": "https://parkon-539a0-default-rtdb.firebaseio.com",
+    "project_id": "parkon-539a0",
+    "storage_bucket": "parkon-539a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83040793624:android:cff16359e0aeaef5a7bf6d",
+        "android_client_info": {
+          "package_name": "com.dominicsilveira.parkingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83040793624-5077g3284l796fg2fea8ltc3orfhas68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmvfXiUvpalJbmcF28OBRyLFz5Y9slY_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83040793624-5077g3284l796fg2fea8ltc3orfhas68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
